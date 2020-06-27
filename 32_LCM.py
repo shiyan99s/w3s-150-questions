@@ -10,6 +10,8 @@ def lcm(x, y):
            break
        z += 1
 
-   return lcm
-print(lcm(4, 6))
-print(lcm(15, 17))
+   print("LCM of {} and {} is {}".format(x,y,z))
+
+   
+(lcm(4, 6))
+(lcm(15, 17))

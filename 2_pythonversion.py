@@ -1,2 +1,2 @@
 import sys
-print("Current version: "+sys.version)
+print("Current version: {}".format(sys.version))

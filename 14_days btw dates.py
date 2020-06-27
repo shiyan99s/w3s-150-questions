@@ -13,4 +13,4 @@ l_final = date(l_year, l_month, l_date)
 
 delta = l_final - f_final
 
-print(delta.days)
+print(delta)
